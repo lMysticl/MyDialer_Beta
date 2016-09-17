@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ContactManager/ContactManager.iml" filepath="$PROJECT_DIR$/../ContactManager/ContactManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ContactManager-master/ContactManager-master.iml" filepath="$PROJECT_DIR$/../ContactManager-master/ContactManager-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyApplication.iml" filepath="$PROJECT_DIR$/../MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RemindMe/RemindMe.iml" filepath="$PROJECT_DIR$/../RemindMe/RemindMe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RemindMeServer-master/RemindMeServer-master.iml" filepath="$PROJECT_DIR$/../RemindMeServer-master/RemindMeServer-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../list_view_progect/list_view_progect.iml" filepath="$PROJECT_DIR$/../list_view_progect/list_view_progect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../my_dialer/my_dialer.iml" filepath="$PROJECT_DIR$/../my_dialer/my_dialer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../my_dialer_basic/my_dialer_basic.iml" filepath="$PROJECT_DIR$/../my_dialer_basic/my_dialer_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/../myapplication2/myapplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myapplication3/myapplication3.iml" filepath="$PROJECT_DIR$/../myapplication3/myapplication3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mystic_app/mystic_app.iml" filepath="$PROJECT_DIR$/../mystic_app/mystic_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sliader/sliader.iml" filepath="$PROJECT_DIR$/../sliader/sliader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../slide_tab/slide_tab.iml" filepath="$PROJECT_DIR$/../slide_tab/slide_tab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../slider/slider.iml" filepath="$PROJECT_DIR$/../slider/slider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sliding_tabs/sliding_tabs.iml" filepath="$PROJECT_DIR$/../sliding_tabs/sliding_tabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+    </modules>
+  </component>
+</project>

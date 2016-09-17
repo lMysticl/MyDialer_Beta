@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Dialer Beta</string>
+    <string name="titel">titel</string>
+    <string name="first_tab">First Tab</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_paid_fragment">Top Paid Fragment</string>
+    <string name="top_free_fragment">Top Free Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="setting">Setting</string>
+    <string name="_1">1</string>
+    <string name="hint">hint</string>
+    <string name="_4">4</string>
+    <string name="_2">2</string>
+    <string name="_5">5</string>
+    <string name="_3">3</string>
+    <string name="_6">6</string>
+    <string name="sharp">#</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    <string name="star">*</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+    <string name="lt"><![CDATA[<-]]></string>
+    <string name="_12">1</string>
+    <string name="call">CALL</string>
+    <string name="_13">13</string>
+    <string name="sms">SMS</string>
+    <string name="_14">14</string>
+    <string name="sort1">Sort1</string>
+    <string name="sort2">Sort2</string>
+    <string name="sort3">Sort3</string>
+    <string name="action_settings">settings</string>
+    <string name="navigate"/>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="photo_image">photo_image</string>
+    <string name="First_name">First Name</string>
+    <string name="Second_name">Second Name</string>
+    <string name="Email">Email</string>
+    <string name="Phone">Phone</string>
+    <string name="Organization">Organization</string>
+    <string name="ok">OK</string>
+    <string name="cencel">Cencel</string>
+</resources>

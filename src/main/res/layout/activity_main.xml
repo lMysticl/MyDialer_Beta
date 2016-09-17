@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/mainBackground"
+        android:fitsSystemWindows="true">
+    <FrameLayout
+            xmlns:test="http://schemas.android.com/apk/res-auto"
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".activity.MainActivity"
+            android:id="@+id/main_view"
+    >
+        <android.support.design.widget.CoordinatorLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+        >
+
+            <android.support.design.widget.AppBarLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:id="@+id/view"
+            >
+                <android.support.design.widget.TabLayout
+                        android:id="@+id/tabLayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        test:tabBackground="@color/colorPrimary"
+                        test:tabIndicatorColor="@android:color/white"
+                        test:tabIndicatorHeight="4dp"
+                        test:tabSelectedTextColor="@android:color/white"
+                        test:tabTextColor="@android:color/white"
+                        android:fillViewport="false"/>
+            </android.support.design.widget.AppBarLayout>
+
+            <android.support.v4.view.ViewPager
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/viewPager"
+
+                    android:layout_marginTop="49dp">
+            </android.support.v4.view.ViewPager>
+
+        </android.support.design.widget.CoordinatorLayout>
+
+    </FrameLayout>
+</android.support.v4.widget.DrawerLayout>

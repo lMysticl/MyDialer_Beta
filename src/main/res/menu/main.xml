@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".activity.MainActivity"
+>
+
+    <item
+            android:id="@+id/navigate"
+            android:orderInCategory="100"
+            android:title="@string/navigate"
+            app:showAsAction="ifRoom"
+            android:icon="@drawable/ic_next"/>
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/action_setting1"
+
+              android:orderInCategory="1"
+              app:showAsAction="never"
+              android:title="@string/sort1"/>
+        <item android:id="@+id/action_setting2"
+              android:orderInCategory="2"
+              app:showAsAction="never"
+              android:title="@string/sort2"/>
+        <item android:id="@+id/action_setting3"
+              android:orderInCategory="3"
+              app:showAsAction="never"
+              android:title="@string/sort3"/>
+    </group>
+</menu>
