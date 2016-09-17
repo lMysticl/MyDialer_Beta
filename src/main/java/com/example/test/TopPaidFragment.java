@@ -26,4 +26,5 @@ public class TopPaidFragment extends Fragment {
         return inflater.inflate(R.layout.fragment_top_paid, container, false);
     }
 
+
 }
